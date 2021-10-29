@@ -6,8 +6,8 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="school_name">성일정보고등학교</string>
-    <string name="school_address">경기도 성남시 수정구 은행1동</string>
-    <string name="menu_home">학교홈으로</string>
-    <string name="menu_"></string>
-    <string name="menu_cafeteria">학교 급식</string>
+    <string name="school_address">경기도 성남시 중원구 성남동</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_by_period_cafeteria">기간별 학교급식</string>
+    <string name="menu_board">게시판</string>
 </resources>
